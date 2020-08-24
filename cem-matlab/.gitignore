@@ -1,0 +1,7 @@
+# autosaves #
+#############
+*.asv
+
+# output #
+##########
+output/
